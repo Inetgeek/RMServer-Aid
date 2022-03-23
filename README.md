@@ -5,6 +5,12 @@ RoboMaster Referee System Server onstruction assistant software
 本软件是专为RoboMaster机甲大师裁判系统（RMUL/RMUC/RMUA）定制化开发的辅助软件，用于快速自动化部署裁判系统所需要的运行环境。本软件有102 MB的大小，已经集成了最新**MySQL 8.0.28版本**，因此不需要再额外下载MySQL，属于比原闭源免费分享软件，版权所有。
 ![image](https://rm-static.djicdn.com/tem/70482/Icon-Champion-UM-1024.png)
 
+
+## 下载地址
+
+因为github不允许上传大于25MB的文件，因此该项目仓库仅作为自述使用。
+
+下载地址：[RM_Server_Aid_v1.0_release_x64](https://download.csdn.net/download/qq_34532102/85024761)
 ## 版权
 软件作者：**InetGeek**, 英文名：**Colyn**.
 
